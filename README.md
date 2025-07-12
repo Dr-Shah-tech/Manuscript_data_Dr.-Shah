@@ -4,7 +4,7 @@ This repository contains data and related code related to manuscript "Data-drive
 Folder Structure
 
 📁 data/
-Contains datasets used in the study in both CSV and Excel formats.
+Contains datasets used in the study in both CSV format.
 
 CSV Files:
 Data_set (previous).csv
@@ -18,16 +18,6 @@ Experimentally studied Al–Fe alloys from the literature.
 
 Elemental_information.csv
 Elemental properties of Al and alloying elements.
-
-📁 excel/
-Excel versions of the above datasets, including references for literature-reported data:
-
-Data_set (previous).xlsx
-
-Data_set (updated).xlsx
-
-Al_Fe_alloys_literature-data.xlsx
-
 
 
 
