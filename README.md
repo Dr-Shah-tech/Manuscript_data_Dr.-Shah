@@ -28,7 +28,6 @@ Data_set (updated).xlsx
 
 Al_Fe_alloys_literature-data.xlsx
 
-Elemental_information.xlsx
 
 
 
