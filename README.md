@@ -4,9 +4,8 @@ This repository contains data and related code related to manuscript "Data-drive
 Folder Structure
 
 📁 data/
-Contains datasets used in the study in both CSV format.
+Contains datasets used in the study in CSV format.
 
-CSV Files:
 Data_set (previous).csv
 Dataset used in the previous study.
 
